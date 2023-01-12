@@ -10,7 +10,7 @@ Hello World! :earth_americas:
 		hobbies: [
 				'Soccer',
 				'Watching Netflix',
-				'Reading Sci-Fi Novels'
+				'Reading Sci-Fi Novels',
 				'Being up all Night chasing that ONE BUG...'
 			]
 	
