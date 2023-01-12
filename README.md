@@ -32,6 +32,9 @@ I am a natural born tinkerer who inevitably found his way to the world of comput
 - ⚡ Fun fact: I used to be a mortgage loan officer!
 - 📫 How to reach me: <a href="mailto:chaaban_tarek@yahoo.com">chaaban_tarek@yahoo.com</a>
 
+### Find me on LinkedIn!
+<a href="https://www.linkedin.com/in/tarek-chaaban/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
+
  ## :computer: Technologies I Love
  * Frontend and Backend Web Development
 * Artifical Intelligence
