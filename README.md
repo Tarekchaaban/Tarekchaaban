@@ -5,8 +5,8 @@ Hello World! :earth_americas:
 ## 🧐Who am I?
  ```python
   class WhoAmI {
- 	user: 'Tarek Chaaban'
-		currentWork: 'Writing code'
+ 	user: 'Tarek Chaaban',
+		currentWork: 'Writing code',
 		hobbies: [
 				'Soccer',
 				'Watching Netflix',
