@@ -9,9 +9,9 @@ Hello World! :earth_americas:
 		currentWork: 'Writing code',
 		hobbies: [
 				'Soccer',
-				'Watching Netflix',
-				'Reading Sci-Fi Novels',
-				'Being up all Night chasing that ONE BUG...'
+				'Watching my favorite TV shows',
+				'MMA',
+				'Being up all night chasing that ONE BUG...'
 			]
 	
 	 getCity() {
