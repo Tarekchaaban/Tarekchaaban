@@ -48,6 +48,8 @@ I am a natural born tinkerer who inevitably found his way to the world of comput
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/49361894/194735999-9b43342d-522b-41a9-823d-318362c82aac.svg"><img src="https://user-images.githubusercontent.com/49361894/194735999-9b43342d-522b-41a9-823d-318362c82aac.svg" alt="express" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/49361894/194736013-02d95228-339d-46a2-8fd0-75cd8d288194.svg"><img src="https://user-images.githubusercontent.com/49361894/194736013-02d95228-339d-46a2-8fd0-75cd8d288194.svg" alt="postgresql" style="max-width: 100%;"></a>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tarekchaaban&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
+
 ### :screwdriver: Tools
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -59,7 +61,7 @@ I am a natural born tinkerer who inevitably found his way to the world of comput
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tarekchaaban&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Tarekchaaban/Tarekchaaban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
