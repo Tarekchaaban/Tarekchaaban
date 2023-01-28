@@ -59,7 +59,7 @@ I am a natural born tinkerer who inevitably found his way to the world of comput
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tarekchaaban&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Tarekchaaban/Tarekchaaban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
