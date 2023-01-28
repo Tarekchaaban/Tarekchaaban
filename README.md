@@ -39,6 +39,9 @@ I am a natural born tinkerer who inevitably found his way to the world of comput
  * Frontend and Backend Web Development
 * Artifical Intelligence
 * Data Science
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tarekchaaban&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
+
 ### :books: Stack
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/49361894/194736004-a8430d19-7685-440b-bb59-58412591cb39.svg"><img src="https://user-images.githubusercontent.com/49361894/194736004-a8430d19-7685-440b-bb59-58412591cb39.svg" alt="html5" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/49361894/194736008-f444cf88-9615-411a-b5c6-a86798b43180.svg"><img src="https://user-images.githubusercontent.com/49361894/194736008-f444cf88-9615-411a-b5c6-a86798b43180.svg" alt="css" style="max-width: 100%;"></a>
@@ -48,7 +51,6 @@ I am a natural born tinkerer who inevitably found his way to the world of comput
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/49361894/194735999-9b43342d-522b-41a9-823d-318362c82aac.svg"><img src="https://user-images.githubusercontent.com/49361894/194735999-9b43342d-522b-41a9-823d-318362c82aac.svg" alt="express" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/49361894/194736013-02d95228-339d-46a2-8fd0-75cd8d288194.svg"><img src="https://user-images.githubusercontent.com/49361894/194736013-02d95228-339d-46a2-8fd0-75cd8d288194.svg" alt="postgresql" style="max-width: 100%;"></a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tarekchaaban&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :screwdriver: Tools
 
