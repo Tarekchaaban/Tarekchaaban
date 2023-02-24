@@ -21,7 +21,7 @@
  }
  ```
  <h3 align="center">
-My name is Tarek, and I'm a <span><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=1000&color=A4DBFF&width=435&lines=Professional Software Developer." alt="Typing SVG" /></a></span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+My name is Tarek, and I'm a Full-Stack Web Developer!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h3>
 
 I am a natural born tinkerer who inevitably found his way to the world of computer science. Since then - I've not been able to stop and am constantly looking to improve myself in more areas within the spectrum of software development. In my free time I do enjoy watching sports, specifically soccer, basketball, and football. I also have an immense love for kittens.
