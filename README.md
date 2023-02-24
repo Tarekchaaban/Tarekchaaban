@@ -64,6 +64,8 @@ I am a natural born tinkerer who inevitably found his way to the world of comput
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 
+<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=1000&color=A4DBFF&width=435&lines=Welcome+to+my+profile!" alt="Typing SVG" /></a> </p>
+
 <!--
 **Tarekchaaban/Tarekchaaban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
