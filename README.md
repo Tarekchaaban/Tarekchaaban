@@ -1,5 +1,5 @@
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=1000&color=A4DBFF&width=435&lines=Hello+World!" alt="Typing SVG" /></a>
+	<p> Hello World! 🌎 </p>
 </h1>
 
 ## 🧐Who am I?
