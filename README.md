@@ -1,6 +1,6 @@
 <h1 align="center">
 	<p> Hello World! 🌎 </p>
-	<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=1000&color=A4DBFF&width=435&lines=Welcome+to+my+GitHub!" alt="Typing SVG" /></a> </p>
+	<p align="right"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=1000&color=A4DBFF&width=435&lines=Welcome+to+my+GitHub!" alt="Typing SVG" /></a> </p>
 </h1>
 
 
