@@ -29,7 +29,7 @@ I am a natural born tinkerer who inevitably found his way to the world of comput
 <img src="https://github.com/demartini/demartini/blob/master/code.gif" align="right" width="350" style="max-width: 100%;" />
 
 - 🔭 I’m currently working on adding stretch features to <a href="https://fifapedia.fifapedia.app">Fifapedia</a>. 
-- 🌱 I’m currently learning React Hooks.
+- 🌱 I’m currently learning TypeScript.
 - ⚡ Fun fact: I used to be a mortgage loan officer!
 - 📫 How to reach me: <a href="mailto:chaaban_tarek@yahoo.com">chaaban_tarek@yahoo.com</a>
 
