@@ -24,7 +24,7 @@
 My name is Tarek, and I'm a Full-Stack Web Developer!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h3>
 
-I am a natural born tinkerer who inevitably found his way to the world of computer science. Since then - I've not been able to stop and am constantly looking to improve myself in more areas within the spectrum of software development. In my free time I do enjoy watching sports, specifically soccer, basketball, and football. I also have an immense love for kittens.
+I am a natural born tinkerer who inevitably found his way to the world of computer science. Since then - I've not been able to stop and am constantly looking to improve myself in more areas within the spectrum of software development. In my free time I do enjoy watching sports, specifically soccer, basketball, and football. I also have an immense love for cats :octocat:.
 
 <img src="https://github.com/demartini/demartini/blob/master/code.gif" align="right" width="350" style="max-width: 100%;" />
 
