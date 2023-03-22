@@ -7,14 +7,14 @@
  ```python
   class WhoAmI {
   	constructor() {
- 	this.user = 'Tarek Chaaban',
-		this.currentWork = 'Writing code',
-		this.hobbies = [
-			'Soccer',
-			'Watching my favorite TV shows',
-			'MMA',
-			'Being up all night chasing that ONE BUG...'
-		];
+ 		this.user = 'Tarek Chaaban',
+			this.currentWork = 'Writing code',
+			this.hobbies = [
+				'Soccer',
+				'Watching my favorite TV shows',
+				'MMA',
+				'Being up all night chasing that ONE BUG...'
+			];
 	}
 	 getCity() {
 		return 'Irvine, California'
